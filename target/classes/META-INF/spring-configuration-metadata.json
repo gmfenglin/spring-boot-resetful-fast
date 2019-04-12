@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "fast",
+      "type": "com.feng.lin.restful.fast.config.ProjectProperty",
+      "sourceType": "com.feng.lin.restful.fast.config.ProjectProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "fast.artifact-id",
+      "type": "java.lang.String",
+      "sourceType": "com.feng.lin.restful.fast.config.ProjectProperty"
+    },
+    {
+      "name": "fast.dir",
+      "type": "java.lang.String",
+      "sourceType": "com.feng.lin.restful.fast.config.ProjectProperty"
+    },
+    {
+      "name": "fast.group-id",
+      "type": "java.lang.String",
+      "sourceType": "com.feng.lin.restful.fast.config.ProjectProperty"
+    },
+    {
+      "name": "fast.version",
+      "type": "java.lang.String",
+      "sourceType": "com.feng.lin.restful.fast.config.ProjectProperty"
+    }
+  ],
+  "hints": []
+}

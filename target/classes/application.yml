@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    username: root
+    password: study
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.1.101:3308/noderoute
+    db-name: noderoute
+fast: 
+  group-id: com.feng.lin.test
+  artifact-id: demo
+  version: 0.0.1
+  dir: D:\codemaker\
